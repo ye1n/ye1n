@@ -15,5 +15,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ye1n&layout=compact">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fye1n&count_bg=%23C8C8C8&title_bg=%23353535&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ye1n)](https://github.com/ye1n/github-readme-stats) -->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fye1n&count_bg=%23E0E0E0&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
